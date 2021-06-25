@@ -10,10 +10,7 @@
 
 #include "LoRa.h"
 
-//#define PIN_NUM_CLK  	5
-
 #define PIN_NUM_CLK  	19
-
 #define PIN_NUM_MISO 	35
 #define PIN_NUM_MOSI 	32
 #define PIN_NUM_CS   	14
